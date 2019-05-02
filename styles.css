@@ -214,3 +214,36 @@ img {
   }
 }
 </style>
+
+#footer-links h3 {
+  margin: 5px 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  vertical-align: middle;
+  border-bottom: 1px solid #e1e1e1;
+}
+
+.social-linke {
+  background: left center no-repeat;
+  padding-left: 24px;
+  margin-bottom: 10px;
+}
+.social-linke.facebook {
+  background-image: url(https://image.flaticon.com/icons/svg/174/174848.svg) ;
+ 
+}
+.social-linke.instegram {
+  background-image: url(https://image.flaticon.com/icons/svg/174/174855.svg);
+}
+.colum{
+  width: 5px;
+  float: left;
+  margin-top: 5px;
+  margin-left: 45%;
+
+}
+h3{
+  padding-left: 5%;
+  margin-left: 42%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
